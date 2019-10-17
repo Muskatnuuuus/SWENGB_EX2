@@ -1,1 +1,5 @@
 Demo text for swengb excercise #2
+
+---
+
+Somebody added new magic to the master branch!
