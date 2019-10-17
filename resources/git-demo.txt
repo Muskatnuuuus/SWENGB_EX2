@@ -3,3 +3,7 @@ Demo text for swengb excercise #2
 ---
 
 Done with implementing complicated magical feature!
+
+---
+
+Somebody added new magic to the master branch!
